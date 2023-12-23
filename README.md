@@ -9,3 +9,20 @@ Distance Charges
 1-50 8 Rs./Km
 51-100 10 Rs./Km
 > 100 12 Rs/Km
+
+7. Python program to check if the given string is a palindrome
+8. Python program to check if a given number is an Armstrong number
+9. Write a Python program to reverse words in a string
+String = “Deeptech Python Training”
+10. Write a Python program to count and display the vowels of a given text
+String=”Welcome to python Training”
+
+11. Write a Python program to Count all letters, digits, and special
+symbols from the given string
+Input = “P@#yn26at^&i5ve”
+Output: Chars = 8 Digits = 2 Symbol = 3
+
+12. Write a Python program to remove duplicate characters of a given
+string.
+Input = “String and String Function”
+Output: String and Function
